@@ -1,3 +1,8 @@
+# cypress
+/cypress/screenshots
+/cypress/videos
+/cypress/plugins
+
 # Logs
 logs
 *.log
@@ -102,3 +107,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# vscode confg file
+.vscode
+
